@@ -1,6 +1,6 @@
 # CESCO
 
-![CESCO](../CESCO_LONG.svg)
+![CESCO](../CESCO_LONG_PATH.svg)
 
 이사벨 고등학교의 프로그래밍 동아리 입니다.
 
